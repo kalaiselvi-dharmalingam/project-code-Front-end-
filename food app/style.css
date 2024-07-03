@@ -1,1 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.heading{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+.one:hover{
+    cursor: pointer;
+}
+.box{
+    text-align: center;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width:220px;
+    display:inline-block;
+}
+h5{
+    display: inline;
+    background: black;
+    color: white;
+}
+.picture{
+    padding-top: 20px;
+    text-align: center;
+}
+.on:hover{
+    cursor:pointer;
+    background-color: red;
+    color:black;
+}
+.contact{
+    margin-top: 10px;
+    padding-top: 20px;
+    background-color: black;
+    height:500px;
+    color: white;
 
+}
+.send{
+    background-color: yellow;
+    text-align: center;
+    width:700px;
+    color:black;
+    margin-top: 35px;
+}
+.send:hover{
+    background-color:aqua;
+    color:black;
+    
+}
+.two{
+    height:35px;
+    weight:35px;
+}
